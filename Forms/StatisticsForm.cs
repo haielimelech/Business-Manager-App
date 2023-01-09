@@ -71,7 +71,7 @@ namespace TevelCampersUpdated.Forms
                 untillprofitsprogressbar.Text = untillprofitsprogressbar.Value.ToString() + "%";
             }
             //Graphbar section
-            //count by array - מערך מונים
+            //count by array
             int[] OrderPerMonth = new int[12];
             foreach (OrdersModel order in OverallOrders)
             {
