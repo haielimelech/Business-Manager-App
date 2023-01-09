@@ -70,7 +70,7 @@ namespace TevelCampersUpdated.Forms
                 untillprofitsprogressbar.Value = (int)untillProfitProgress;
                 untillprofitsprogressbar.Text = untillprofitsprogressbar.Value.ToString() + "%";
             }
-            //Graph  -   bar section
+            //Graph -  bar section
             //count by array
             int[] OrderPerMonth = new int[12];
             foreach (OrdersModel order in OverallOrders)
