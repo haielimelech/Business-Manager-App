@@ -26,3 +26,7 @@ C:\Users\hai84\source\repos\TevelCampersUpdated\obj\Debug\TevelCampersUpdated.Fo
 C:\Users\hai84\source\repos\TevelCampersUpdated\obj\Debug\TevelCampersUpdated.Forms.StatisticsForm.resources
 C:\Users\hai84\source\repos\TevelCampersUpdated\bin\Debug\WinFormAnimation.dll
 C:\Users\hai84\source\repos\TevelCampersUpdated\bin\Debug\CircularProgressBar.xml
+C:\Users\hai84\Documents\GitHub\TevelCampersUpdated\obj\Debug\TevelCampersUpdated.csproj.AssemblyReference.cache
+C:\Users\hai84\Documents\GitHub\TevelCampersUpdated\obj\Debug\TevelCampersUpdated.csproj.SuggestedBindingRedirects.cache
+C:\Users\hai84\Documents\GitHub\TevelCampersUpdated\obj\Debug\TevelCampersUpdated.exe
+C:\Users\hai84\Documents\GitHub\TevelCampersUpdated\obj\Debug\TevelCampersUpdated.pdb
